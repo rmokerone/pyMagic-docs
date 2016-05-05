@@ -6,17 +6,14 @@
 Welcome to PyMagic-Core's documentation!
 ========================================
 
+PyBoard
+
+PyMagic-Core
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   configure
+   
