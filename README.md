@@ -1,4 +1,4 @@
-## Linux Manual
+## PyMagic Core
 
 文档编写中，不定期更新......
 
