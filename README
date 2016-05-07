@@ -23,3 +23,7 @@ git clone https://github.com/ZMOM1031/PyMagic-Core.git
 cd PyMagic-Core
 make html
 ```
+关于分支
+
+merge 分支是稳定版本
+dev 分支是开发版本->注修改修改分支在这里进行
