@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PyMagic-Core's documentation!
+Welcome to PyMagic's documentation!
 ========================================
 
 `PyMagic`_ 为一块基于 STM32F405RG 微控制器运行 `Python`_ 语言解释器的硬件平台。与 `Arduino`_ 类似，但 `PyMagic`_ 更为强大。
