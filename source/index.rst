@@ -19,11 +19,11 @@ PyMagic 是一款开源的开发板，基于 `PyBoard <https://micropython.org/>
 .. _Arduino: https://www.arduino.cc/
 .. _Teensy: https://www.pjrc.com/teensy/
 
-Contents:
+目录:
 
 .. toctree::
    :maxdepth: 2
 
-   pymagic/quickref.rst
-   pymagic/configure.rst
+   configure.rst
+   quickref.rst
    
