@@ -78,4 +78,7 @@ Linux
    sudo picocom /dev/ttyACM0
    (注视具体情况而定，可能为/dev/ttyACM*)
 
-   
+Mac
+==========
+
+
