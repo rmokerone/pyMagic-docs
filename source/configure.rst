@@ -27,6 +27,48 @@ Windows
 
 2、
 
+.. image:: images/pymagic-01.png
+    :alt: PYB v1.0 pinout
+
+.. image:: images/pymagic-02.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-03.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-04.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-05.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-06.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-07.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-08.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-09.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-10.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
+
+.. image:: images/pymagic-11.png
+    :alt: PYB v1.0 pinout
+    :width: 700px
 
 Linux
 ==========
