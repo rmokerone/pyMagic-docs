@@ -19,7 +19,7 @@ pip install sphinx sphinx_rtd_theme
 编译文档
 
 ```bash
-git clone https://github.com/ZMOM1031/PyMagic-Core.git
+git clone https://github.com/rmokerone/PyMagic-Core.git
 cd PyMagic-Core
 make html
 ```
