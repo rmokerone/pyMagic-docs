@@ -24,5 +24,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   configure
+   pymagic/quickref.rst
+   pymagic/configure.rst
    
