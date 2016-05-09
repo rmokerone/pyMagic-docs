@@ -4,7 +4,7 @@
 配置
 ==========
 
-当第一次使用 PyMagic-Core 时，只要一根 MacroUSB 数据线链接到电脑就够了。
+当第一次使用 PyMagic 时，只要一根 MacroUSB 数据线链接到电脑就够了。
 当连接了 MacroUSB 线后，在 Windows 中会自动安装移动磁盘驱动和虚拟串口驱动。
 移动磁盘的驱动系统自带了，可以自动识别出来，而虚拟串口的驱动可以在这个移动磁盘中找到。
 在 Linux 和 Mac 下，无需另外安装驱动。
@@ -21,7 +21,7 @@
 Windows
 ==========
 
-1、使用 USB 连接到 PyMagic-Core 
+1、使用 USB 连接到 PyMagic
 
 2、
 
