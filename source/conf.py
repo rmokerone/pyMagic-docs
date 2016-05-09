@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'PyMagic-Core'
+project = 'PyMagic'
 copyright = '2016, ZMOM1031'
 author = 'ZMOM1031'
 
@@ -206,7 +206,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'PyMagic-Coredoc'
+htmlhelp_basename = 'PyMagicdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -228,7 +228,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PyMagic-Core.tex', 'PyMagic-Core Documentation',
+    (master_doc, 'PyMagic.tex', 'PyMagic Documentation',
      'ZMOM1031', 'manual'),
 ]
 
@@ -258,7 +258,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pymagic-core', 'PyMagic-Core Documentation',
+    (master_doc, 'pymagic', 'PyMagic Documentation',
      [author], 1)
 ]
 
@@ -272,8 +272,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PyMagic-Core', 'PyMagic-Core Documentation',
-     author, 'PyMagic-Core', 'One line description of project.',
+    (master_doc, 'PyMagic', 'PyMagic Documentation',
+     author, 'PyMagic', 'One line description of project.',
      'Miscellaneous'),
 ]
 
