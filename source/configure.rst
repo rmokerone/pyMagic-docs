@@ -66,9 +66,6 @@ Windows
     :alt: PYB v1.0 pinout
     :width: 700px
 
-.. image:: images/pymagic-11.png
-    :alt: PYB v1.0 pinout
-    :width: 700px
 
 Linux
 ==========
