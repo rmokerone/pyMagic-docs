@@ -25,6 +25,7 @@ PyMagic 是一款开源的开发板，基于 `PyBoard <https://micropython.org/>
 .. toctree::
    :maxdepth: 2
 
-   configure.rst
-   quickref.rst
+   configure
+   quickref
+   flash-dfu
    
