@@ -16,5 +16,7 @@ Contents:
    :maxdepth: 2
 
    pymagic/quickref.rst
+   pymagic/general.rst
+   pymagic/tutorial/index.rst
    pymagic/configure.rst
    

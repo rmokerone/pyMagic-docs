@@ -2,7 +2,9 @@
 
 pyMagic 快速参考
 ===============================
-
+.. image:: https://img.alicdn.com/imgextra/i4/1044578334/TB2ysA2opXXXXX0XFXXXXXXXXXX_!!1044578334.jpg
+    :alt: pymagic1.0 pinout
+    :width: 750px
 .. image:: http://micropython.org/resources/pybv10-pinout.jpg
     :alt: PYBv1.0 pinout
     :width: 700px
