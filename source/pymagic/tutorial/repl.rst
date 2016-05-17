@@ -33,12 +33,24 @@ Mac OS X
 --------
 
 打开终端并运行::
-Open a terminal and run::
 
     screen /dev/tty.usbmodem*
     
-当你结束并想退出时，输出 CTRL-A CTRL-\\
-When you are finished and want to exit screen, type CTRL-A CTRL-\\.
+当你结束并想退出时，输入 CTRL-A CTRL-\\。
+
+ps:tty.usbmodem*中*号的内容具体为多少可以使用下面的方式( ``邵解放。（2898629332)提供``) 查看:
+ 1. 打开终端进入/dev/目录::
+     cd /dev/
+ 2. 将当前全部设备名保存到 ~/before.txt文件::
+     ls > ~/before.txt
+ 3. 插入pyMagic, 将全部设备名保存到 ~/after.txt文件::
+     ls > ~/after.txt
+ 4. 比较插入前和插入后的全部设备名::
+     diff ~/before.txt ~/after.txt
+ 5. 找到tty开头的设备::
+     例如: tty.usbmodem1422
+ 6. 执行命令连接到设备
+     sudo screen /dev/tty.usbmodem1422
 
 Linux
 -----
